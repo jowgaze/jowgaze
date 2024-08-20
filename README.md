@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=134dab&height=150&text=Jonatha%20Carvalho&fontColor=FFFF&fontSize=30&fontAlignY=65&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=134dab&height=150&text=Jonatha%20Carvalho&fontColor=FFFF&fontSize=30&fontAlignY=40&section=header"/>
 
 <div align="center">
 <p>Graduando em Ciências da Computação</br>Universidade Estadual do Piauí</p>
